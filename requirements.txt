@@ -1,5 +1,4 @@
 openai
 python-docx
-documentintelligence
 streamlit
 azure-ai-documentintelligence==1.0.0b2
